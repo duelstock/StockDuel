@@ -13,28 +13,32 @@ https://stock-duel.vercel.app/
 
 ---
 
+
 Overview
 
 StockDuel is a real-time trading game where users compete by choosing market direction.
 
-Each market is structured as a duel between two sides:
+StockDuel turns trading into a competitive game — where every decision happens in real time.
+
+Each market is a live duel between two sides:
 
 - UP
 - DOWN
 
-Users join a side, and when the round ends, the winning side takes the pool.
+Players join a side, and when the round ends, the winning side takes the pool.
 
 ---
 
 Core Concept
 
-StockDuel transforms trading into a competitive system.
+StockDuel is built around speed, competition, and short timeframes.
 
-Instead of long-term analysis, the focus is on:
+Instead of long-term analysis:
 
-- speed
-- decision-making
-- short timeframes
+- decisions are made in seconds
+- outcomes are resolved in minutes
+
+Every round is designed to feel immediate, reactive, and competitive.
 
 Each round is designed to be fast, reactive, and engaging.
 
