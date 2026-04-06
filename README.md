@@ -50,7 +50,7 @@ This transforms trading into a game.
 
 ## 🌐 Live Demo
 
-👉 https://your-link.vercel.app/
+👉 https://stock-duel.vercel.app/
 
 ---
 
