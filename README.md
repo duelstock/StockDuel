@@ -38,7 +38,7 @@ Instead of long-term analysis:
 - decisions are made in seconds
 - outcomes are resolved in minutes
 
-Every round is designed to feel immediate, reactive, and competitive.
+ 
 
 Each round is designed to be fast, reactive, and engaging.
 
