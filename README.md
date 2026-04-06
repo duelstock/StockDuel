@@ -3,7 +3,7 @@ StockDuel
 Real-time market duels.
 Fight the market. Win the pool.
 
-"StockDuel Preview" (./preview.png)
+![StockDuel Preview](./preview.png)
 
 ---
 
