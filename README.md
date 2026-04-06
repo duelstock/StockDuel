@@ -1,3 +1,4 @@
+![StockDuel Preview](./preview.png)
 # ⚔️ StockDuel
 
 Real-time market duels.  
